@@ -23,6 +23,6 @@ working with a discrete random process, can we say how many states the process t
 are we to see the supports of these states intersect and in what configurations? I like to call results of this type _probabilistic Tverberg theorems_,
 after the famous theorem of [Tverberg](https://en.wikipedia.org/wiki/Tverberg%27s_theorem "Tverberg").
 
-The main tools I use come from probability theory, convex geometry, mathematical optimization, and topological data analysis though it feels like I am picking up
-new math every week! I am always interested in meeting others working in these or related fields. Please feel free to reach out if you are looking for collaborators,
+The main tools I use come from probability theory, convex geometry, mathematical optimization, and topological data analysis, though it feels like I am picking up
+some new methods every week! I am always interested in meeting others working in these or related fields. Please feel free to reach out if you are looking for collaborators,
 have questions for me, or just want to say hi!
