@@ -18,8 +18,8 @@ I am also a passionate educator and an advocate for diversity, equity, and inclu
 
 My research can be boiled down to the problem of learning a distribution through sampling.
 "Learning a distribution" can mean accurately estimating parameters if we assume the underlying distribution is of a special form,
-such as in Gaussian Mixture Models. However, it can also mean learning other features of the distribution. For example, if we are
-working with a discrete random process, can we say how many states does the process take and where each state is supported? How likely
+such as in [Gaussian Mixture Models](https://en.wikipedia.org/wiki/Mixture_model "GMM"). However, it can also mean learning other features of the distribution. For example, if we are
+working with a discrete random process, can we say how many states the process takes and where each state is supported? How likely
 are we to see the supports of these states intersect and in what configurations? I like to call results of this type _probabilistic Tverberg theorems_,
 after the famous theorem of [Tverberg](https://en.wikipedia.org/wiki/Tverberg%27s_theorem "Tverberg").
 
