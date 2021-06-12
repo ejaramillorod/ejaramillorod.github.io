@@ -8,7 +8,8 @@ number of shortest lattice paths from $$(0, 0)$$ to $$(n, k)$$ that do not go ab
 diagonal. This paper studies the occurrence of primes and perfect powers in the Catalan
 triangle.'
 date: 2019-01-01
-venue: 'Journal of Integer Sequences'
+venue: 'Journal of Integer Sequences with N. Benjamin, G. Fickes, E. Fiorini, E. Jovinelly, and
+T.W.H. Wong'
 ---
 ### Abstract
 
