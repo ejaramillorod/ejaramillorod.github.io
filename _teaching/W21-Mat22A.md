@@ -12,5 +12,5 @@ Linear Algebra. Lead Instructor: David Marsico.
 
 ## Resources:
 
-I prepared some handwritten [notes](/files/math22a/22a-notes) covering Determinants, Eigenvalues/ Eigenvectors, and Diagonalization
-to help students prepare for the final. They also contain some exercises, for which I also wrote [partial solutions](/files/math22a/22a-notes-solutions).
+I prepared some handwritten [notes](/files/math22a/22a-notes.pdf) covering Determinants, Eigenvalues/ Eigenvectors, and Diagonalization
+to help students prepare for the final. They also contain some exercises, for which I also wrote [partial solutions](/files/math22a/22a-notes-solutions.pdf).
