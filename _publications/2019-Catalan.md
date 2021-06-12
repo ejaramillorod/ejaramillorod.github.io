@@ -1,7 +1,7 @@
 ---
 title: "“Primes and Perfect Powers in the Catalan Triangle"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2019-Catalan
 excerpt: 'This paper studies the occurrence of primes and perfect powers in the Catalan
 triangle.'
 date: 2019
