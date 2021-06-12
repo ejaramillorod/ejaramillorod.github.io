@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-Catalan
 excerpt: 'This paper studies the occurrence of primes and perfect powers in the Catalan
 triangle.'
-date: 2019
+date: 2019-01-01
 venue: 'Journal of Integer Sequences'
 paperurl: 'https://www.emis.de/journals/JIS/VOL22/Fiorini/fiorini3.pdf'
 citation: ''
