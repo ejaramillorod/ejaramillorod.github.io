@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-A list of my recent publications and teaching experience can be found under [Publications](/publications) and [Teaching/ Mentoring](/teaching) above.
+A list of my recent publications and teaching experience can be found under [Publications](/publications) and [Teaching/ Mentoring](/teaching).
 
 My complete CV is also available as a [pdf](files/ceevee.pdf "cv").
