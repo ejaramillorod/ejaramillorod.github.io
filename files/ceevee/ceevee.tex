@@ -1,0 +1,136 @@
+\documentclass[11pt,letter]{moderncv}
+\moderncvtheme[purple]{classic}
+\usepackage[margin=0.75in]{geometry}
+\usepackage{fancyhdr}
+\usepackage{etoolbox}
+\usepackage{lastpage}
+
+\pagestyle{fancy}
+\fancyhf{}
+ 
+\rfoot{\addressfont\color{color2}\footnotesize{Page \thepage \hspace{1pt} of \pageref{LastPage}}}
+
+\makeatletter
+\patchcmd{\makecvtitle}{\ifthenelse{\equal{\@addresscountry}{}}}%
+{\ifstrempty{\@addresscountry}}{}{}
+\makeatother
+
+\renewcommand{\footrulewidth}{0.5pt}
+\cfoot{\addressfont\color{color2}\footnotesize Curriculum Vitae}
+\lfoot{\addressfont\color{color2}\footnotesize Edgar Jaramillo Rodriguez}
+\usepackage[usestackEOL]{stackengine}
+\setstackgap{L}{12pt}
+
+\firstname{Edgar}
+\familyname{Jaramillo Rodriguez}
+\title{Curriculum Vitae}
+\address{University of California, Davis}{Department of Mathematics}
+\phone{714.325.4500}
+\email{ejaramillo@ucdavis.edu}
+%\extrainfo{Active DOE "Q" and SCI Clearances
+%}
+\extrainfo{https://ejaramillorod.github.io/}
+
+\begin{document}
+\makecvtitle
+{
+%%%%%%%%%%%%%%%%%%
+%%%%%% EDUCATION
+%%%%%%%%%%%%%%%%%%
+\section{Education}
+\vspace{0.05in}
+\cventry{In progress}{Ph.D., Mathematics}{University of California, Davis}{Advisor: Dr. Jesus De Loera}{}{}
+\vspace{0.05in}
+\cventry{2021}{Masters of Science, Mathematics}{University of California, Davis}{}{}{}
+\vspace{0.05in}
+\cventry{2018}{Bachelor of Arts, Applied Mathematics}{University of California, Berkeley}{}{}{}
+
+%%%%%%%%%%%%%%%%%%
+%%%%%%  PUBLICATIONS
+%%%%%%%%%%%%%%%%%%
+
+
+\section{Publications}
+%\vspace{0.05in}
+% Journal Articles
+\cvitem{Journal Articles}{[1] N. Benjamin, G. Fickes, E. Fiorini, \textbf{ E. Jaramillo Rodriguez}, E. Jovinelly, and T.W.H. Wong, ``Primes and Perfect Powers in the Catalan Triangle,'' Journal of Integer Sequences, Vol. 22 (2019), Issue 7, Paper 6}}
+
+% Pre-Prints
+\cvitem{Pre-Prints}{TBA}
+\vspace{0.05in}
+
+% Conference Papers
+\cvitem{Conference Papers}{[1] S. D. Han, \textbf{E. Jaramillo Rodriguez} and J. Yu, ``SEAR: A Polynomial- Time Multi-Robot Path Planning Algorithm with Expected Constant-Factor Optimality Guarantee,'' 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2018, pp. 1-9.}
+\vspace{0.05in}
+
+%%%%%%%%%%%%%%%%%%
+%%%%%% PROFESSIONAL EXPERIENCE
+%%%%%%%%%%%%%%%%%%
+
+\section{Professional Experience}
+\vspace{0.05in}
+\cventry{2020}{NSF Mathematical Sciences Graduate Research Internship }{Lawrence Berkeley National Lab}{Mentor: Dr. Nicole Sanderson}{}{}{}
+\vspace{0.05in}
+\cventry{2017}{Research Experience for Undergraduates}{Center for Discrete Math and Theoretical Computer Science at Rutgers University}{Mentor: Dr.  Jingjin Yu}{}{}{}
+\vspace{0.05in}
+\cventry{2016}{Research Experience for Undergraduates}{Muhlenberg College}{Mentor: Dr. Eugene Fiorini}{}{}
+
+
+
+
+\section{Teaching Experience}
+%\vspace{0.05in}
+%\cvitem{}{\textit{The following students and postdocs who I mentored or co-mentored have been converted into scientists at LANL: Geoffrey Fairchild (A-1), Reid Priedhorsky (HPC-ENV), Dave Osthus (CCS-6), Kyle Hickmann (XCP-8), Carrie Manore (A-1), and Ashlynn Daughton (A-1), and Kelly Moran (CCS-6).}}
+%\vspace{0.05in}
+\cvitem{Teaching Assistant}{\textbf{Math 21B: Integral Calculus}, Spring 2021, UC Davis. Lead Instructor: Dr. Ben Morris.}
+\vspace{0.05in}
+\cvitem{}{\textbf{Math 22A: Linear Algebra}, Winter 2021, UC Davis. Lead Instructor: Dr. David Marsico.}
+\vspace{0.05in}
+\cvitem{}{\textbf{Math 21A: Differential Calculus}, Fall 2020, UC Davis. Lead Instructor: Dr. Daniel Martin.}
+\vspace{0.05in}
+\cvitem{}{\textbf{Math 54: Linear Algebra}, Fall 2017, UC Berkeley. Lead Instructor: Dr. Michael Hutchings.}
+\cvitem{Classroom Aid}{\textbf{Martin Luther King Jr Middle School}, Fall 2015, Berkeley, CA. Lead Instructor: Jay Cohen.}
+
+\newpage
+\section{Mentoring Experience}
+\vspace{0.05in}
+\cventry{2021}{Directed Reading Program Mentor}{UC Davis}{}{}{}{}
+\begin{itemize}
+\cventry{}{\item DRP Mentor} {Lead two undergraduate students through a directed reading program in mathematical optimization.  I was responsible for creating the syllabus, compiling reading materials, producing exercises to guide readings, and facilitating discussions. Topics covered: Linear Regression/ Ordinary Least Squares, Ridge Regression, LASSO regression, Singular Value Decomposition/ Principle Component Analysis, and implementations of these methods in Python for applications to predicting home prices and 
+image compression}{}{}{}{}
+\end{itemize}
+\vspace{0.05in}
+\cventry{2015-2017}{Bridging Berkeley Program Director}{UC Berkeley Public Service Center}{}{}{}{}
+\begin{itemize}
+\cventry{}{\item Program Director} {Bridging Berkeley is a math mentoring program that matches UC Berkeley work-study students and volunteers with Berkeley middle school youth, especially those who will be first-generation college students. As director, I oversaw a team of roughly 30 mentors and 100 mentees while also mentoring a number of students myself}{}{}{}{}
+\end{itemize}
+\vspace{0.05in}
+%
+%
+%\cventry{2016--present}{Deputy Group Leader and Project Leader}{Information Systems and Modeling, A-1}{LANL}{}{}{}
+%\begin{itemize}
+%\cventry{}{\item Deputy Group Leader}{Support the Group Leader in strategic planning, personnel management, hiring, professional development, conflict resolution, and daily business operations. A-1 is a group of about 35 staff members and 20 students/postdocs that provide R\&D solutions in support of critical infrastructure, CBRN threats, data analytics, and proliferation activities of weapons-usable nuclear materials}{}{}{}{}
+%\cventry{}{\item Project Leader}{Co-lead team of 20 scientists, postdocs, and students across multiple groups and divisions. As the PI for these projects, I provide technical direction, mentorship, compilation of deliverables, progress reports, and manage daily operations. The projects include: NGA-funded project on mobility patterns, UC Lab Fees-funded project on political instability, NIH-funded project on dengue and influenza forecasting in Brazil, CDC-funded project on economic impacts of school closures, an internally-funded project for Predictive Analytics for Laboratory Safety and Security, and Colds \& Flu project on forecasting sick leave at LANL. Most recently, I've been leading several COVID-19 modeling efforts focused on assessing the impact of non-pharmaceutical intervention strategies, vaccine distribution, and forecasting hospitalizations to inform resource planning and allocation}{}{}{}{}
+%\end{itemize}
+
+
+\section{Fellowships, Awards, and Nominations}
+\vspace{0.05in}
+\cvitem{2018-2020}{Eugene Cota Robles Graduate Fellowship, UC Davis }
+
+
+%\newpage
+
+\section{Presentations}
+\cvitem{2021}{Seminar Speaker, ``Coupon Collecting, Bird Watching, and other Chronological Sampling Activities: A Random Interval Graph Model'', \textbf{Graduate Student Research Seminar}, UC Davis Mathematics (April 1, 2021).}
+\vspace{0.05in}
+\cvitem{2016}{Poster Presentation, ``Unique Integers on the Catalan Triangle'', \textbf{Young Mathematicians Conference 2016}, The Ohio State University (August 20, 2016).}
+\vspace{0.05in}
+
+\section{Skills}
+\cvitem{Computer Skills}{Expertise in Python, SQL, Git, Microsfot Office, LaTeX. Proficiency in Sage, Matlab, GDScript.}
+\vspace{0.05in}
+\cvitem{Languages}{Fluency: English and Spanish. Proficieny: French.}
+\vspace{0.05in}
+
+\end{document}
