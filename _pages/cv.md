@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-A list of my recent publications and teaching experience can be found under Publications and Teaching/ Mentoring above.
+A list of my recent publications and teaching experience can be found under [Publications](/publications) and [Teaching/ Mentoring](/teaching) above.
 
-My complete CV is available as a pdf by clicking [here](files/cv.pdf "cv")
+My complete CV is also available as a [pdf](files/cv.pdf "cv")
