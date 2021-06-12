@@ -9,8 +9,6 @@ diagonal. This paper studies the occurrence of primes and perfect powers in the 
 triangle.'
 date: 2019-01-01
 venue: 'Journal of Integer Sequences'
-paperurl: ''
-citation: ''
 ---
 ### Abstract
 
