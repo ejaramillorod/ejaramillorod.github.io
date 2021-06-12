@@ -15,4 +15,4 @@ T.W.H. Wong, “Primes and Perfect Powers in the Catalan Triangle,” Journal of
 Sequences, Vol. 22 (2019), Issue 7, Paper 6'
 ---
 
-[The pdf is available here](https://www.emis.de/journals/JIS/VOL22/Fiorini/fiorini3.pdf).
+[The pdf is accessible here](https://www.emis.de/journals/JIS/VOL22/Fiorini/fiorini3.pdf).
