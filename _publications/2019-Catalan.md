@@ -1,5 +1,5 @@
 ---
-title: "“Primes and Perfect Powers in the Catalan Triangle"
+title: "Primes and Perfect Powers in the Catalan Triangle"
 collection: publications
 permalink: /publication/2019-Catalan
 excerpt: 'The Catalan triangle is an infinite lower-triangular matrix that generalizes the

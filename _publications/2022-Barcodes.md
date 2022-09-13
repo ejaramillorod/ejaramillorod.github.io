@@ -1,5 +1,5 @@
 ---
-title: "“Combinatorial Methods for Barcode Analysis"
+title: "Combinatorial Methods for Barcode Analysis"
 collection: publications
 permalink: /publication/2022-Barcodes
 excerpt: 'We study a new partial order on the space of barcodes closely related to the permutahedron. The resulting poset has connections to continuous metrics on barcodes such as the bottleneck and Wasserstein distances.'

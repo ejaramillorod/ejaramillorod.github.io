@@ -1,10 +1,10 @@
 ---
-title: "“A Model for Birdwatching and other Chronological Sampling Activities"
+title: "A Model for Birdwatching and other Chronological Sampling Activities"
 collection: publications
 permalink: /publication/2018-MRPP
 excerpt: 'We study the intersections of time dependent events using an original random interval graph model.'
 date: 2022-05-11
-venue: '(Pre-Print, scheduled to appear in American Mathematical Monthly) with J. De Loera, D. Oliveros, and A. Torres'
+venue: 'Arxiv Pre-Print, scheduled to appear in American Mathematical Monthly with J. De Loera, D. Oliveros, and A. Torres'
 ---
 ### Abstract
 
