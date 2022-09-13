@@ -3,7 +3,7 @@ title: "Society for Industrial and Applied Math Conference on Discrete Mathemati
 collection: talks
 type: "Talk"
 permalink: /talks/SIAM-DM22
-venue: ""Barcode Posets: Combinatorial Properties and Connections""
+venue: " \"Barcode Posets: Combinatorial Properties and Connections\""
 date: 2022-06-14
 location: "Carnegie Mellon University"
 ---
