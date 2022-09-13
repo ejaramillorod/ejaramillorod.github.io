@@ -19,11 +19,4 @@ My research is in combinatorial probability, data science, and mathematical opti
 
 Since June of 2022, I have been interning with Los Alamos National Lab, under the mentorship of [Sara del Valle](https://public.lanl.gov/sdelvall/), [Geoffrey Fairchild](https://www.gfairchild.com/), and [Nidhi Parikh](https://scholar.google.com/citations?user=z7rCEYYAAAAJ&hl=en). I have been working with [Axel Browne](https://github.com/axelbrowne) on optimal surveillance and intervention strategies on networks for applications to epidemiology. In addition to performing the research I have also been working as a developer to implement these methods so they are scalable to massive networks with millions of nodes and billions of edges.
 
-<!-- My research can be boiled down to the problem of learning a distribution through sampling.
-"Learning a distribution" can mean accurately estimating parameters if we assume the underlying distribution is of a special form,
-such as in [Gaussian Mixture Models](https://en.wikipedia.org/wiki/Mixture_model "GMM"). However, it can also mean learning other features of the distribution. For example, if we are
-working with a discrete random process, can we say how many states the process takes and where each state is supported? How likely
-are we to see the supports of these states intersect and in what configurations? I like to call results of this type _probabilistic Tverberg theorems_,
-after the famous theorem of [Tverberg](https://en.wikipedia.org/wiki/Tverberg%27s_theorem "Tverberg"). -->
-
 The main tools I use come from probability, graph theory, combinatorics, mathematical optimization, and algebraic topology. I am always interested in meeting others working in these or related fields. Please feel free to reach out if you are looking for collaborators, have questions for me, or just want to say hi!
