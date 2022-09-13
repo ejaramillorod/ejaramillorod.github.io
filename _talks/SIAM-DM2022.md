@@ -1,0 +1,11 @@
+---
+title: "Algebraic Statistics 2022"
+collection: talks
+type: "Talk"
+permalink: /talks/AS2022
+venue: ""A Model for Birdwatching and other Chronological Sampling Activities""
+date: 2022-05-16
+location: "University of Hawai’i at Manoa"
+---
+
+Presented on ["A Model for Birdwatching and other Chronological Sampling Activities"](/publications/2022-Birdwatching). Slides are available [here](/files/slides/AS2022).
