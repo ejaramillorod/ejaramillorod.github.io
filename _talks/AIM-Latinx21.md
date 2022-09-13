@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/AIM-Latinx21
 venue: " \"New Methods for Mixture Model Analysis\" with A. Chavez, J. De Loera, J. Simental Rodriguez, and A. Torres Hernandez"
-date: 2012-12-03
+date: 2021-12-03
 location: "virtual"
 ---
 
