@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=latex 2022.3.28)  29 OCT 2022 15:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=latex 2022.3.28)  31 OCT 2022 12:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -923,17 +923,17 @@ n/10.95 ``Com-bi-na-to-rial Meth-ods for Bar-code Anal-y-sis,''
 
 [1
 
-]
-Overfull \hbox (10.88788pt too wide) in paragraph at lines 133--133
+] [2]
+Overfull \hbox (10.88788pt too wide) in paragraph at lines 145--145
 [][] 
  []
 
 
-Overfull \hbox (10.88788pt too wide) in paragraph at lines 138--138
+Overfull \hbox (10.88788pt too wide) in paragraph at lines 150--150
 [][] 
  []
 
-[2] 
+
 AED: lastpage setting LastPage
 [3] (./ceevee.aux)
 Package rerunfilecheck Info: File `ceevee.out' has not changed.
@@ -942,10 +942,10 @@ Package rerunfilecheck Info: File `ceevee.out' has not changed.
 Here is how much of TeX's memory you used:
  21818 strings out of 478995
  401940 string characters out of 5858210
- 776130 words of memory out of 5000000
+ 774130 words of memory out of 5000000
  38872 multiletter control sequences out of 15000+600000
  462300 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  117i,11n,116p,592b,470s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on ceevee.dvi (3 pages, 33912 bytes).
+Output written on ceevee.dvi (3 pages, 35696 bytes).
