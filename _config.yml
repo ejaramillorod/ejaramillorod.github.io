@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Edgar Jaramillo Rodriguez"
+title                    : "Elena Jaramillo Rodriguez"
 title_separator          : "-"
-name                     : &name "Edgar Jaramillo Rodriguez"
+name                     : &name "Elena Jaramillo Rodriguez"
 description              : &description "personal description"
 url                      : https://ejaramillorod.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Edgar Jaramillo Rodriguez (They/Them)"
-  avatar           : "profile_pic.jpg"
-  bio              : "Math PhD Candidate at UC Davis"
-  location         : "Davis, CA"
+  name             : "Elena Jaramillo Rodriguez, PhD (She/Her)"
+  avatar           : "headshot.jpg"
+  bio              : "Solutions Engineering Analyst (GPS) | AI and Data Operations"
+  location         : "Sacramento, CA"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=TTXuhnUAAAAJ&hl=en&authuser=2"
-  email            : "ejaramillo@ucdavis.edu"
+  email            : "ejaramillo701@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : ""
+  linkedin         : "https://www.linkedin.com/in/ejaramillo701/"
   orcid            :
   pinterest        :
   soundcloud       :
